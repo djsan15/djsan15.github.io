@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cyberchords.com/categories/</loc>
+    <loc>http://blog.cyberchords.com/categories/</loc>
   </url><url>
-    <loc>https://cyberchords.com/</loc>
+    <loc>http://blog.cyberchords.com/</loc>
   </url><url>
-    <loc>https://cyberchords.com/tags/</loc>
+    <loc>http://blog.cyberchords.com/tags/</loc>
   </url><url>
-    <loc>https://cyberchords.com/about/</loc>
+    <loc>http://blog.cyberchords.com/about/</loc>
   </url>
 </urlset>
